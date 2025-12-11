@@ -119,10 +119,4 @@ flutter run
 Pull requests are welcome!
 For major changes, open an issue first to discuss what you'd like to improve.
 
-📄 License
-This project is licensed under the MIT License – feel free to modify and use it.
 
-💜 Author
-Sreeshna C
-Flutter Developer
-🚀 Passionate about building clean UI & smooth user experience.
