@@ -109,15 +109,10 @@ lib/
 ## 🚀 How to Run
 
 ### 1️⃣ Clone the repo
-```sh
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 2️⃣ Install dependencies
-sh
-Copy code
 flutter pub get
 3️⃣ Run the app
-sh
-Copy code
 flutter run
 ...
 🤝 Contributing
